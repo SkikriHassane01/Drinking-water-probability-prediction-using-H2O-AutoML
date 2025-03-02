@@ -1,5 +1,7 @@
 # Drinking water probability prediction using H2O AutoML
 
+![](https://mf.b37mrtl.ru/media/pics/2023.08/article/64d165cc4c59b7210a6a10c2.jpg)
+
 ## overview
 
 In this project, we focus on developing a machine learning model to predict the potability (drinkability) of water using a dataset that includes various chemical features of water samples. Ensuring the safety of drinking water is crucial for public health, and predictive models can help assess water quality quickly and accurately.
